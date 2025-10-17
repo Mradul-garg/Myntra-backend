@@ -81,6 +81,8 @@
         "original_price": 1599,
         "current_price": 639,
         "discount_percentage": 60,
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
         "rating": { "stars": 4.2, "count": 388 }
       },
       {
@@ -190,30 +192,6 @@
         "return_period": 10,
         "delivery_date": "09 Oct 2023",
         "rating": { "stars": 4.6, "count": 300 }
-      },
-      {
-        "id": "017",
-        "image": "images/17.jpg",
-        "company": "Woodland",
-        "item_name": "Men Leather Casual Boots",
-        "original_price": 4995,
-        "current_price": 3497,
-        "discount_percentage": 30,
-        "return_period": 14,
-        "delivery_date": "10 Oct 2023",
-        "rating": { "stars": 4.2, "count": 870 }
-      },
-      {
-        "id": "018",
-        "image": "images/18.jpg",
-        "company": "Mamaearth",
-        "item_name": "Ubtan Face Wash with Turmeric & Saffron",
-        "original_price": 299,
-        "current_price": 249,
-        "discount_percentage": 17,
-        "return_period": 10,
-        "delivery_date": "09 Oct 2023",
-        "rating": { "stars": 4.5, "count": 5400 }
       }
     ]
   ]
